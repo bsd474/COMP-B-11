@@ -1,4 +1,4 @@
-# COMP-B-11
+# Java - Project #2 Double Number
 
 42.2 Programming Project #01B
 Auto-graded programming assignments have numerous advantages, but have some challenges too. In order for auto-grading to work, sometimes the output needs to be formatted is a narrow and specific manner. For example, if you write a program to prompt the user to enter information as in the following, you do not need to output the 5.
