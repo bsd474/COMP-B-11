@@ -8,9 +8,10 @@ One error often causes additional errors further along in the program. For this 
 
 The correct output of the program is:
 
-- Is Pluto a planet?
-- Some people think so, but others don't.
-- The Moon's mass is 6 times Pluto's.
-- Not much of a planet, is it?
-
+```
+Is Pluto a planet?
+Some people think so, but others don't.
+The Moon's mass is 6 times Pluto's.
+Not much of a planet, is it?
+```
 End the last output with a newline.
