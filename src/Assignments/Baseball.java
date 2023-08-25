@@ -18,5 +18,7 @@ public class Baseball {
         System.out.println("Last night the Dodgers scored "+ dodgers +", ");
         System.out.println("the Yankees scored "+ yankees +", and");
         System.out.println("the Cubs scored "+ orioles +".");
+
+        scanner.close();
     }
 }
