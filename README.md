@@ -1,4 +1,4 @@
-# Java - Project #3 Baseball
+# Java - Project #5 Kite
 
 The program contains syntax and logic errors. Fix the syntax errors in the Develop mode until the program executes. Then fix the logic errors.
 
@@ -6,16 +6,28 @@ Error messages are often long and technical. Do not expect the messages to make 
 
 One error often causes additional errors further along in the program. For this exercise, fix the first error reported. Then try to run the program again. Repeat until all the compile-time errors have been corrected.
 
-Hint: Pay attention to the one or two special lines that must appear at the beginning of the program. Unless those lines are included and are correct, the compiler will not be able to make sense of the code.
+The correct output of the program is:
 
-Ex: the If input is:
-
-* 2 3 4
-
-the output is:
-
-- Last night the Dodgers scored 2, 
-- the Yankees scored 3, and
-- the Cubs scored 4.
+```
+ Sides: 12 10
+ Perimeter: 44
+```
 
 End the last output with a newline.
+
+The original code before solving it: 
+
+```
+public class Kite {
+   public static void main(String [] args) {
+      int longSide = 12;
+      int shortSide = 10;
+      int perimeter;
+
+      perimeter = 2 * longSide + * shortSide;
+
+      System.out.printl("sides: " longSide, ", ", shortSide)
+      System.out.println("perimeter: " * perimeter);
+   }
+}
+```
